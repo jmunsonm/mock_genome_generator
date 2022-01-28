@@ -1,0 +1,4 @@
+Mock_genome_generator_README
+
+Use a directory of fasta files to generate modified shortened versions of the genomes. Specify the input directory, output directory, number of genomes to be made, mininum genome length and max genome length
+
